@@ -1,5 +1,5 @@
 {
-	"name": "@matharumanpreet00/react-daterange-picker",
+	"name": "karenpommeroy/react-daterange-picker",
 	"version": "1.0.5",
 	"description": "A react date range picker using Material Design",
 	"author": {
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/matharumanpreet00/react-daterange-picker"
+		"url": "https://github.com/karenpommeroy/react-daterange-picker"
 	},
 	"main": "build/index.js",
 	"module": "build/index.es.js",
