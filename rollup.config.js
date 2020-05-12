@@ -25,6 +25,7 @@ export default {
 		resolve(),
 		typescript({
 			rollupCommonJSResolveHack: true,
+			useTsconfigDeclarationDir: true,
 			exclude: [
 				'**/__tests__/**'
 			],
